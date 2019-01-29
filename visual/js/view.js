@@ -1,7 +1,6 @@
 /**
  * The pathfinding visualization.
- * It uses raphael.js to show the grids.
- */
+ * It uses raphael.js to  */
 var View = {
     nodeSize: 30, // width and height of a single node, in pixel
     nodeStyle: {
